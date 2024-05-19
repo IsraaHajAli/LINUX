@@ -1,0 +1,5 @@
+56789;Apple;juice;4;350;xyz;0;9;21/1/2023
+12345;Banana;smoothie;2;250;abc;1;2;22/1/2023
+67890;Strawberry;yogurt;5;150;mno;1;3;23/1/2023
+98765;Grapes;snack;6;100;pqr;1;4;24/1/2023
+54321;Mango;shake;1;450;def;0;5;25/1/2023

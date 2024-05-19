@@ -1,0 +1,102 @@
+Product ID: 56789
+Product Name: Apple
+Product Category: juice
+Price: 4
+Inventory: 350 items
+Supplier: xyz
+Has an Offer?: 0
+
+
+Product ID: 12345
+Product Name: Banana
+Product Category: smoothie
+Price: 2
+Inventory: 250 items
+Supplier: abc
+Has an Offer?: 1
+Offer Price: 2
+Valid Until: 22/1/2023
+
+
+Product ID: 67890
+Product Name: Strawberry
+Product Category: yogurt
+Price: 5
+Inventory: 150 items
+Supplier: mno
+Has an Offer?: 1
+Offer Price: 3
+Valid Until: 23/1/2023
+
+
+Product ID: 98765
+Product Name: Grapes
+Product Category: snack
+Price: 6
+Inventory: 100 items
+Supplier: pqr
+Has an Offer?: 1
+Offer Price: 4
+Valid Until: 24/1/2023
+
+
+Product ID: 54321
+Product Name: Mango
+Product Category: shake
+Price: 1
+Inventory: 450 items
+Supplier: def
+Has an Offer?: 0
+
+
+Product ID: 24680
+Product Name: Pineapple
+Product Category: juice
+Price: 3
+Inventory: 300 items
+Supplier: ghi
+Has an Offer?: 1
+Offer Price: 6
+Valid Until: 26/1/2023
+
+
+Product ID: 13579
+Product Name: Watermelon
+Product Category: slices
+Price: 7
+Inventory: 200 items
+Supplier: jkl
+Has an Offer?: 0
+
+
+Product ID: 11223
+Product Name: Blueberry
+Product Category: muffin
+Price: 8
+Inventory: 120 items
+Supplier: stu
+Has an Offer?: 1
+Offer Price: 18
+Valid Until: 28/1/2023
+
+
+Product ID: 99887
+Product Name: Cherry
+Product Category: jam
+Price: 2
+Inventory: 180 items
+Supplier: vwx
+Has an Offer?: 0
+
+
+Product ID: 45678
+Product Name: Kiwi
+Product Category: fruit
+Price: 4
+Inventory: 280 items
+Supplier: lmn
+Has an Offer?: 1
+Offer Price: 10
+Valid Until: 30/1/2023
+
+

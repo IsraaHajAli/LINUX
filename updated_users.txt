@@ -1,0 +1,62 @@
+Shopper ID: 012901
+Shopper Name: Ahmad Hussam
+Date of Birth: 19/1/1896
+Active: No
+Basket: {'010891': '11', '110212': '3'}
+Order: No
+
+
+Admin ID: 012902
+Admin Name: Ali Ahmad
+Date of Birth: 3/1/1987
+Active: No
+
+
+Shopper ID: 012903
+Shopper Name: omar Ossama
+Date of Birth: 10/6/1999
+Active: No
+Basket: {'010891': '6', '110282': '3', 12345: 4}
+Order: No
+
+
+Admin ID: 012904
+Admin Name: omar Amjad
+Date of Birth: 10/8/1879
+Active: No
+
+
+Admin ID: 012905
+Admin Name: Amal Ali
+Date of Birth: 12/3/1878
+Active: No
+
+
+Shopper ID: 012906
+Shopper Name: Sarah Johnson
+Date of Birth: 8/15/1985
+Active: No
+Basket: {'041234': '12', '090567': '4'}
+Order: No
+
+
+Admin ID: 012907
+Admin Name: Marah Brown
+Date of Birth: 10/7/2000
+Active: No
+
+
+Admin ID: 012908
+Admin Name: Leena Davis
+Date of Birth: 3/12/1995
+Active: No
+
+
+Shopper ID: 012909
+Shopper Name: Leen Wilson
+Date of Birth: 9/1/1982
+Active: No
+Basket: {'071234': '15', '110234': '5'}
+Order: No
+
+

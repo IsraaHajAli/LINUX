@@ -1,0 +1,9 @@
+012901;Ahmad Hussam;19/1/1896;shopper;0;{010891:11,110212:3};0
+012902;Ali Ahmad;3/1/1987;admin;1
+012903;omar Ossama;10/6/1999;shopper;0;{010891:6,110282:3};0
+012904;omar Amjad;10/8/1879;admin;1
+012905;Amal Ali;12/3/1878;admin;1
+012906;Sarah Johnson;8/15/1985;shopper;0;{041234:12,090567:4};1
+012907;Marah Brown;10/7/2000;admin;1
+012908;Leena Davis;3/12/1995;admin;1
+012909;Leen Wilson;9/1/1982;shopper;0;{99887:15,45678:5};1

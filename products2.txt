@@ -1,0 +1,5 @@
+24680;Pineapple;juice;3;300;ghi;1;6;26/1/2023
+13579;Watermelon;slices;7;200;jkl;0;7;27/1/2023
+11223;Blueberry;muffin;8;120;stu;1;18;28/1/2023
+99887;Cherry;jam;2;180;vwx;0;9;29/1/2023
+45678;Kiwi;fruit;4;280;lmn;1;10;30/1/2023
